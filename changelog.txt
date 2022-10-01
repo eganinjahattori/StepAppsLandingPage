@@ -1,0 +1,3 @@
+- Using the template
+- Created stepapps site
+- Added CNAME and deployed using godaddy
